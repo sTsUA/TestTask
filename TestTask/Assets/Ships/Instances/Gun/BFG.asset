@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36e0673d917d4987a9a4a5552b03413d, type: 3}
+  m_Name: BFG
+  m_EditorClassIdentifier: 
+  targetSlot: 3
+  hp: 0
+  firstGun: {fileID: 11400000, guid: d295273191fa0bc43acae19364e2c026, type: 2}
+  secondGun: {fileID: 11400000, guid: a5737b890b105814ea8f3841ec5bebaa, type: 2}
